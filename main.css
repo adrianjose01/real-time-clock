@@ -24,11 +24,6 @@ body {
   padding: 0.6rem;
   border-radius: 0.5rem;
   cursor: default;
-  transition: transform 1s;
-}
-
-.clock-container:hover {
-  transform: scale(1.5);
 }
 
 @media (min-width: 725px) {
